@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.d6560c8b.chunk.css",
-    "main.js": "/static/js/main.82302ce0.chunk.js",
-    "main.js.map": "/static/js/main.82302ce0.chunk.js.map",
+    "main.css": "/static/css/main.96177e52.chunk.css",
+    "main.js": "/static/js/main.a7d24da9.chunk.js",
+    "main.js.map": "/static/js/main.a7d24da9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e0944a46.js",
     "runtime-main.js.map": "/static/js/runtime-main.e0944a46.js.map",
     "static/js/2.26fc425c.chunk.js": "/static/js/2.26fc425c.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.3c6061d5.chunk.js": "/static/js/3.3c6061d5.chunk.js",
     "static/js/3.3c6061d5.chunk.js.map": "/static/js/3.3c6061d5.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.d6560c8b.chunk.css.map": "/static/css/main.d6560c8b.chunk.css.map",
+    "static/css/main.96177e52.chunk.css.map": "/static/css/main.96177e52.chunk.css.map",
     "static/js/2.26fc425c.chunk.js.LICENSE.txt": "/static/js/2.26fc425c.chunk.js.LICENSE.txt",
     "static/media/agronomy.34537478.svg": "/static/media/agronomy.34537478.svg",
     "static/media/atm.07925a0b.png": "/static/media/atm.07925a0b.png",
@@ -46,7 +46,7 @@
   "entrypoints": [
     "static/js/runtime-main.e0944a46.js",
     "static/js/2.26fc425c.chunk.js",
-    "static/css/main.d6560c8b.chunk.css",
-    "static/js/main.82302ce0.chunk.js"
+    "static/css/main.96177e52.chunk.css",
+    "static/js/main.a7d24da9.chunk.js"
   ]
 }
